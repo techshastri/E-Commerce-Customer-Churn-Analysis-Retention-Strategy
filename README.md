@@ -16,7 +16,7 @@ This project analyzes a dataset of **5,630 customers** to identify key drivers o
 ---
 
 ## 🔍 Business Problem
-The e-commerce platform was experiencing an unacceptably high churn rate (**16.8% average**). The Operations and Marketing teams lacked visibility into *why* customers were leaving—whether it was price sensitivity, service quality, or product dissatisfaction. 
+The e-commerce platform was experiencing an unacceptably high churn rate (**20.83% average**). The Operations and Marketing teams lacked visibility into *why* customers were leaving—whether it was price sensitivity, service quality, or product dissatisfaction. 
 
 **Objective:** Reduce churn by identifying "At-Risk" segments and recommending data-backed retention strategies.
 
